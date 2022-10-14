@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08dd10f8.css",
+    "main.js": "/static/js/main.205116a1.js",
+    "static/js/787.70d1b86c.chunk.js": "/static/js/787.70d1b86c.chunk.js",
+    "static/media/lyc-campaigns-website-header-1600.jpg": "/static/media/lyc-campaigns-website-header-1600.766ad84e83d0b9541da8.jpg",
+    "static/media/LOGO_PNG_2K.png": "/static/media/LOGO_PNG_2K.161be94ab01d03f2d213.png",
+    "index.html": "/index.html",
+    "main.08dd10f8.css.map": "/static/css/main.08dd10f8.css.map",
+    "main.205116a1.js.map": "/static/js/main.205116a1.js.map",
+    "787.70d1b86c.chunk.js.map": "/static/js/787.70d1b86c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08dd10f8.css",
+    "static/js/main.205116a1.js"
+  ]
+}
